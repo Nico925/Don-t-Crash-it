@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b249346d4261643acf1d1665cf3d25, type: 3}
+  m_Name: GPSData
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1135148981057168, guid: 95d9cf2c665c61246adbee72b0b51d33, type: 2}
+  PossibleCoordinates:
+  - Coordinate: {x: 86, y: 36}
+    MonitorImage: {fileID: 2800000, guid: 2c3d792aec85a0e489e9b158a94deb85, type: 3}
+  - Coordinate: {x: 90, y: 35}
+    MonitorImage: {fileID: 2800000, guid: 6f12c80d010f5174dad5357d8c51effa, type: 3}
+  - Coordinate: {x: 83, y: 38}
+    MonitorImage: {fileID: 2800000, guid: 7ae596957b5ab5f4597768d2c346a164, type: 3}
+  - Coordinate: {x: 90, y: 42}
+    MonitorImage: {fileID: 2800000, guid: de3d73db451b97a4285b67249ccd1039, type: 3}
+  - Coordinate: {x: 84, y: 29}
+    MonitorImage: {fileID: 2800000, guid: 632f4bc311f42a64293640ad92ffeba6, type: 3}
+  - Coordinate: {x: 79, y: 41}
+    MonitorImage: {fileID: 2800000, guid: 304b1850df30f3c48bc6cf3f4e11c015, type: 3}
+  - Coordinate: {x: 82, y: 31}
+    MonitorImage: {fileID: 2800000, guid: 0f9f94e6d22049b4a99729664c3c3824, type: 3}
+  - Coordinate: {x: 79, y: 32}
+    MonitorImage: {fileID: 2800000, guid: e73907f2edae39440a3cdd03e6b40704, type: 3}
+  - Coordinate: {x: 80, y: 29}
+    MonitorImage: {fileID: 2800000, guid: 02bcf1f5ae2189f4aa1fdb69ab907320, type: 3}
+  - Coordinate: {x: 79, y: 21}
+    MonitorImage: {fileID: 2800000, guid: 9a02f1275505598489f6c3108796d782, type: 3}
+  - Coordinate: {x: 85, y: 20}
+    MonitorImage: {fileID: 2800000, guid: c6076426a73cf0848bf79cb947fe2d67, type: 3}
+  - Coordinate: {x: 90, y: 26}
+    MonitorImage: {fileID: 2800000, guid: 40f3e1967f05d974392210eb38d894eb, type: 3}
+  - Coordinate: {x: 90, y: 21}
+    MonitorImage: {fileID: 2800000, guid: c59ad3cea7ec5e243b1373e0e14b8b4a, type: 3}
+  - Coordinate: {x: 84, y: 24}
+    MonitorImage: {fileID: 2800000, guid: c8d32b06cedf3e342967d0033720e6d5, type: 3}
+  - Coordinate: {x: 81, y: 24}
+    MonitorImage: {fileID: 2800000, guid: b4ef14e05d5096f45aa24af13d2c1ed2, type: 3}
+  - Coordinate: {x: 86, y: 27}
+    MonitorImage: {fileID: 2800000, guid: 5ef97c346a8d6b24eb25bfd4079c5641, type: 3}
+  - Coordinate: {x: 86, y: 41}
+    MonitorImage: {fileID: 2800000, guid: 640539aa0d54b8945bb5774cbcca36cd, type: 3}
+  - Coordinate: {x: 87, y: 32}
+    MonitorImage: {fileID: 2800000, guid: 1364326dae1b7ef42bf97c85e7465504, type: 3}
+  - Coordinate: {x: 90, y: 31}
+    MonitorImage: {fileID: 2800000, guid: aa6867cc93381d94b89378a4ce6e94f3, type: 3}
+  - Coordinate: {x: 79, y: 26}
+    MonitorImage: {fileID: 2800000, guid: 07a01cc7e85abd541b28dfec0de14d5d, type: 3}
+  - Coordinate: {x: 89, y: 28}
+    MonitorImage: {fileID: 2800000, guid: 333bb7381f6815044a0b8244aebbe099, type: 3}
+  - Coordinate: {x: 84, y: 34}
+    MonitorImage: {fileID: 2800000, guid: 2c584826b5c317b49a454806693631bf, type: 3}
+  - Coordinate: {x: 81, y: 35}
+    MonitorImage: {fileID: 2800000, guid: d7dd5c2ed0643eb40858a25e238b58c8, type: 3}
+  - Coordinate: {x: 82, y: 42}
+    MonitorImage: {fileID: 2800000, guid: 2c59a1a50c7a36e42b694ad440eb22aa, type: 3}
+  - Coordinate: {x: 88, y: 39}
+    MonitorImage: {fileID: 2800000, guid: ede633e3b8153f74aaf125d7271ef6db, type: 3}
+  - Coordinate: {x: 87, y: 23}
+    MonitorImage: {fileID: 2800000, guid: cb8cd341ed06b534db84f6433cb37dc9, type: 3}
+  - Coordinate: {x: 80, y: 37}
+    MonitorImage: {fileID: 2800000, guid: 3c53486a580476249a224802e248b7e6, type: 3}

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4a9eb146f3291c459b3980c14d0fae5, type: 3}
+  m_Name: AlarmData
+  m_EditorClassIdentifier: 
+  Setups:
+  - LightPattern: 0100000000000000
+    Seq1_First: 2
+    Seq1_Second: 3
+    Seq2_First: 11
+    Seq2_Second: 14
+    Button_Last: 10
+  - LightPattern: 01000000000000000000000000000000
+    Seq1_First: 26
+    Seq1_Second: 29
+    Seq2_First: 18
+    Seq2_Second: 17
+    Button_Last: 15
+  - LightPattern: 01000000010000000100000000000000
+    Seq1_First: 31
+    Seq1_Second: 32
+    Seq2_First: 23
+    Seq2_Second: 24
+    Button_Last: 20
+  - LightPattern: 0200000000000000
+    Seq1_First: 9
+    Seq1_Second: 8
+    Seq2_First: 27
+    Seq2_Second: 26
+    Button_Last: 25
+  - LightPattern: 02000000000000000000000000000000
+    Seq1_First: 19
+    Seq1_Second: 16
+    Seq2_First: 31
+    Seq2_Second: 34
+    Button_Last: 30
+  - LightPattern: 02000000020000000200000000000000
+    Seq1_First: 12
+    Seq1_Second: 14
+    Seq2_First: 38
+    Seq2_Second: 36
+    Button_Last: 35
+  - LightPattern: 01000000000000000200000000000000
+    Seq1_First: 22
+    Seq1_Second: 21
+    Seq2_First: 6
+    Seq2_Second: 7
+    Button_Last: 5
+  - LightPattern: 020000000200000002000000000000000100000000000000
+    Seq1_First: 39
+    Seq1_Second: 38
+    Seq2_First: 2
+    Seq2_Second: 4
+    Button_Last: 0
+  - LightPattern: 010000000100000001000000000000000200000000000000
+    Seq1_First: 8
+    Seq1_Second: 9
+    Seq2_First: 16
+    Seq2_Second: 18
+    Button_Last: 15
+  - LightPattern: 01000000010000000100000001000000000000000200000002000000020000000200000000000000
+    Seq1_First: 29
+    Seq1_Second: 28
+    Seq2_First: 2
+    Seq2_Second: 3
+    Button_Last: 0

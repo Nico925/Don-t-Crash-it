@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1507540316021832}
+  m_IsPrefabParent: 1
+--- !u!1 &1476527663459530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4086319072218302}
+  - component: {fileID: 114175537496675634}
+  m_Layer: 0
+  m_Name: AudioObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1507540316021832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4294515928550680}
+  - component: {fileID: 114080000956879932}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4086319072218302
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1476527663459530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4294515928550680}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4294515928550680
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1507540316021832}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4086319072218302}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114080000956879932
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1507540316021832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b278f5eb9cb2c5249b809555835e9ba7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DefaultDebug: {fileID: 11400000, guid: 689b378d95192384a92a222ff88d8e46, type: 2}
+  Easy: {fileID: 11400000, guid: 5ee9888ffbe807246ac05a633b40b808, type: 2}
+  Medium: {fileID: 11400000, guid: 138c97b650b65574396bad9fcbe60fcc, type: 2}
+  Hard: {fileID: 11400000, guid: 689b378d95192384a92a222ff88d8e46, type: 2}
+--- !u!114 &114175537496675634
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1476527663459530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6e3ccc92d6ffec4bb2d98a332609318, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InputClick: {fileID: 8300000, guid: f16f066bb2f6530469894b2719f6ce1a, type: 3}
+  InputHover: {fileID: 8300000, guid: e698a398d77d53843a09e7c16b9856b9, type: 3}
+  Altimeter: {fileID: 8300000, guid: c741826fef94f0945a9833a504368207, type: 3}
+  Alarm: {fileID: 8300000, guid: d4816b463c7b7be42a58a974b9832b2f, type: 3}
+  MenuInput: {fileID: 8300000, guid: fc4016052ffeab9469e5a774874ebf61, type: 3}
+  PuzzleSolved: {fileID: 8300000, guid: 95600c775e199c549a4f6a6a9f0f6983, type: 3}
+  Ambient:
+  - {fileID: 8300000, guid: 19946818f965b8b48a7e9e447338dd62, type: 3}
+  - {fileID: 8300000, guid: 5d1fe9f3d6d0e454184228b86805287c, type: 3}
+  - {fileID: 8300000, guid: d58f30b9087564140a17b498d043a926, type: 3}
+  - {fileID: 8300000, guid: 249c5b285484de64ab2fdc0b2b041dc5, type: 3}
+  - {fileID: 8300000, guid: f7e032a555f8b9f4e99d91abf004153d, type: 3}
+  AmbientTransitions:
+  - {fileID: 8300000, guid: 7758cb7925231984f9ebb3fb918f5d62, type: 3}
+  - {fileID: 8300000, guid: 86b1a596b5d5ce34cb5e363ee35e5445, type: 3}
+  - {fileID: 8300000, guid: 5a5e66af65ce33c4ca48a609764450dc, type: 3}
+  FadeTime: 0.5

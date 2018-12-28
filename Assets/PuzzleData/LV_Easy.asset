@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf3d7f0ebf70de64086cd803fb6a6dd2, type: 3}
+  m_Name: LV_Easy
+  m_EditorClassIdentifier: 
+  StartingAltitude: 720
+  TotalPuzzles: 5
+  PuzzlesNeededToWin: 3
+  PuzzlesNeededToloose: 3
+  Alarm_Data: {fileID: 11400000, guid: f336c269c9069124d80a51b21e117029, type: 2}
+  PuzzleDatas:
+  - {fileID: 11400000, guid: b002f7ab8429c0544848423fe9e13a1c, type: 2}
+  - {fileID: 11400000, guid: cad79f16deab47d4092ec9121551317a, type: 2}
+  - {fileID: 11400000, guid: 9abdda6b88ccdb44da392c02dfcda4b9, type: 2}
+  - {fileID: 11400000, guid: 88c017a19ad54464e9746b8ad239b44f, type: 2}
+  - {fileID: 11400000, guid: 78e8c902abb275343b0cb4b4d14ba09d, type: 2}
+  - {fileID: 11400000, guid: d5b7c393ed431fc4ea2f09af85f69f77, type: 2}
+  FillingObjects:
+  - {fileID: 1365229984270544, guid: d938b57acd33d0f46be012a81faf5191, type: 2}
+  - {fileID: 1733872474401378, guid: 82aaebe1cee920642b31310a4efc0f10, type: 2}
+  - {fileID: 1769093350791218, guid: b150a1934d490d34fb15742673a4131a, type: 2}
+  - {fileID: 1268038296334420, guid: f10de348c508b4b45a58e5163305eb57, type: 2}
+  - {fileID: 1660566552445100, guid: 066bca08d61846d45848a304eeb88a25, type: 2}

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a57607ec50a0e42b4ea7a760bec395, type: 3}
+  m_Name: ClusterData_med
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1486520554477460, guid: 7e792a95f753e4a41925997f05b50d64, type: 2}
+  LightOffMat: {fileID: 2100000, guid: b552f1f04380c2145a56d98eeb7b523d, type: 2}
+  ScreenOffMat: {fileID: 2100000, guid: 3eba06aaf8c12c041951addcde7bbbf2, type: 2}
+  SequenceDuration: 5
+  HeatBarBaseFilling: 3
+  HeatBarErrorFilling: 1
+  SequencesAmount: 6
+  Sequences:
+  - A1_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    A2_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    A3_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    B4_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    B5_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B6_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    RedSolution: 01000000020000000400000005000000
+    YellowSolution: 00000000010000000300000004000000
+    GreenSolution: 00000000020000000300000005000000
+    BlueSolution: 00000000010000000300000004000000
+  - A1_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    A2_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    A3_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    B4_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    B5_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B6_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    RedSolution: 00000000010000000300000004000000
+    YellowSolution: 01000000020000000400000005000000
+    GreenSolution: 00000000020000000300000005000000
+    BlueSolution: 01000000020000000400000005000000
+  - A1_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    A2_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    A3_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B4_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B5_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    B6_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    RedSolution: 01000000020000000300000004000000
+    YellowSolution: 00000000020000000300000005000000
+    GreenSolution: 00000000010000000400000005000000
+    BlueSolution: 00000000020000000300000005000000
+  - A1_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    A2_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    A3_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    B4_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    B5_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B6_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    RedSolution: 00000000010000000400000005000000
+    YellowSolution: 00000000020000000300000004000000
+    GreenSolution: 01000000020000000300000005000000
+    BlueSolution: 00000000020000000300000004000000
+  - A1_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    A2_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    A3_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    B4_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    B5_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B6_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    RedSolution: 00000000010000000300000004000000
+    YellowSolution: 00000000020000000400000005000000
+    GreenSolution: 01000000020000000300000005000000
+    BlueSolution: 00000000020000000400000005000000
+  - A1_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    A2_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    A3_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    B4_Mat: {fileID: 2100000, guid: c33417b8171ffa349b41eeedea0d69cc, type: 2}
+    B5_Mat: {fileID: 2100000, guid: 0ab4d2e19a4ba574d8fb2dcf4fdd979c, type: 2}
+    B6_Mat: {fileID: 2100000, guid: d59f017974bcf8145bb706f585800244, type: 2}
+    RedSolution: 00000000020000000400000005000000
+    YellowSolution: 01000000020000000300000005000000
+    GreenSolution: 00000000010000000300000004000000
+    BlueSolution: 01000000020000000300000005000000

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7961f08f83d297748a78cb5659dc3420, type: 3}
+  m_Name: AutopilotData
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1915745723564990, guid: 5974d059b2346d44f82336e30f58736e, type: 2}
+  Fase1:
+  - MonitorOutput: 0
+    Solution: 04000000ffffffff03000000fdffffff01000000
+  - MonitorOutput: 1
+    Solution: 04000000feffffff0000000003000000fdffffff
+  - MonitorOutput: 2
+    Solution: fcffffff0200000001000000ffffffff05000000
+  Fase2:
+  - MonitorOutput: 3
+    Solution: 0500000002000000fcfffffffeffffff00000000
+  - MonitorOutput: 4
+    Solution: 03000000fdffffff01000000feffffff04000000
+  - MonitorOutput: 5
+    Solution: fcffffff020000000300000001000000feffffff

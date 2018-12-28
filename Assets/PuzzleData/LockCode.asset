@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab77e6a9e4f72240a7d8814c4e7a429, type: 3}
+  m_Name: LockCode
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1210340496298244, guid: c45e539a74579534790ede9d9370a371, type: 2}
+  Setups:
+  - ScreenImage: {fileID: 2800000, guid: 3791555ea09fcd24882d772ed568cc9c, type: 3}
+    Seq_1st: 0
+    Seq_2nd: 0
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: 4baf0b38041deca42aab2f8e0a5699af, type: 3}
+    Seq_1st: 0
+    Seq_2nd: 0
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: 42280ce5b815abf4286f9cd353c688d5, type: 3}
+    Seq_1st: 0
+    Seq_2nd: 0
+    Seq_3rd: 1
+  - ScreenImage: {fileID: 2800000, guid: d2293a99d34cb3948b6f080cf1d6ab4e, type: 3}
+    Seq_1st: 0
+    Seq_2nd: 1
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: 9c425bea0d9bdb94ba6eaf088d8c8a97, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 0
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: 2960f385bb9144743a1ed44be94ec59f, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 0
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: 2a442ccce2675a9498332e6a9c76bc93, type: 3}
+    Seq_1st: 0
+    Seq_2nd: 2
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: e7db80163168a944bb55b936d1b230c7, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 0
+    Seq_3rd: 1
+  - ScreenImage: {fileID: 2800000, guid: f3b13ef0991f13b4598e64d5dae7edea, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 0
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: bba630cea72ff8942a52d09b7702befb, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 2
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: 2dfee23ec73c02046b04c7af9c6f3bd1, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 2
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: 2570640b29d25354d8ef0a1a6af88a8d, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 2
+    Seq_3rd: 1
+  - ScreenImage: {fileID: 2800000, guid: c56cfdb3de56407479ce23be41c50de9, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 1
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: 0b0c033313815c3449d2333e8531d0c3, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 1
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: 031296886ad535c49934bc54c7834fd4, type: 3}
+    Seq_1st: 1
+    Seq_2nd: 1
+    Seq_3rd: 1
+  - ScreenImage: {fileID: 2800000, guid: 158006b41b6cfaf4b919356baee6051b, type: 3}
+    Seq_1st: 2
+    Seq_2nd: 2
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: 609474b07c643ce42ba7a988a08bf279, type: 3}
+    Seq_1st: 2
+    Seq_2nd: 0
+    Seq_3rd: 2
+  - ScreenImage: {fileID: 2800000, guid: 9cea198af192c3f488ed80795c6ce857, type: 3}
+    Seq_1st: 2
+    Seq_2nd: 1
+    Seq_3rd: 1
+  - ScreenImage: {fileID: 2800000, guid: 6aa4212e33e262e43850ad9da438d154, type: 3}
+    Seq_1st: 2
+    Seq_2nd: 0
+    Seq_3rd: 0
+  - ScreenImage: {fileID: 2800000, guid: 9f4c682dd23791f40b60c740963fe91e, type: 3}
+    Seq_1st: 2
+    Seq_2nd: 0
+    Seq_3rd: 1

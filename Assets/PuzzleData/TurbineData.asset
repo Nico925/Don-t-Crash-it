@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7244ce0d892b74e9ef9c7fc644cb73, type: 3}
+  m_Name: TurbineData
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1744359725271452, guid: 3ae3b6cc3a63057479d3e2281b9cfa44, type: 2}
+  ButtonsValues:
+  - Label: RNYF
+    E1Modifier: 0
+    E2Modifier: 40
+    E3Modifier: 0
+    E4Modifier: 40
+  - Label: LNM5
+    E1Modifier: -10
+    E2Modifier: 0
+    E3Modifier: 0
+    E4Modifier: -10
+  - Label: E6PB
+    E1Modifier: 10
+    E2Modifier: 0
+    E3Modifier: 10
+    E4Modifier: 0
+  - Label: RH4B
+    E1Modifier: 20
+    E2Modifier: 20
+    E3Modifier: 0
+    E4Modifier: 0
+  - Label: 9C6M
+    E1Modifier: 0
+    E2Modifier: -40
+    E3Modifier: 0
+    E4Modifier: -40
+  - Label: HC5T
+    E1Modifier: 0
+    E2Modifier: -20
+    E3Modifier: -20
+    E4Modifier: 0
+  - Label: XHVA
+    E1Modifier: 0
+    E2Modifier: 0
+    E3Modifier: -30
+    E4Modifier: -30
+  - Label: KDLV
+    E1Modifier: 0
+    E2Modifier: 10
+    E3Modifier: 0
+    E4Modifier: 10
+  - Label: M2WC
+    E1Modifier: -30
+    E2Modifier: -30
+    E3Modifier: 0
+    E4Modifier: 0
+  - Label: A3H8
+    E1Modifier: 20
+    E2Modifier: 0
+    E3Modifier: 0
+    E4Modifier: 20
+  - Label: 7DNK
+    E1Modifier: 40
+    E2Modifier: 0
+    E3Modifier: 40
+    E4Modifier: 0
+  - Label: BNH1
+    E1Modifier: 0
+    E2Modifier: -10
+    E3Modifier: -10
+    E4Modifier: 0
